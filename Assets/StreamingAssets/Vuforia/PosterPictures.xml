@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TruncatedCyclicAnalog2-24" size="1.000000 0.852691" />
+    <ImageTarget name="TruncatedCyclicAnalog1-24" size="1.000000 0.849727" />
+    <ImageTarget name="NMRSpectra1-24" size="1.000000 0.848921" />
+    <ImageTarget name="LinearAnalog2-24" size="1.000000 0.864789" />
+    <ImageTarget name="LinearAnalog1-24" size="1.000000 0.809160" />
+    <ImageTarget name="IpglycermideParent2-24" size="1.000000 0.981912" />
+    <ImageTarget name="IpglycermideParent24" size="1.000000 0.807440" />
+  </Tracking>
+</QCARConfig>
